@@ -1,0 +1,18 @@
+path:
+- data.csv
+- data.rds
+rows: 32
+cols: 11
+columns:
+  mpg: numeric
+  cyl: numeric
+  disp: numeric
+  hp: numeric
+  drat: numeric
+  wt: numeric
+  qsec: numeric
+  vs: numeric
+  am: numeric
+  gear: numeric
+  carb: numeric
+type: table

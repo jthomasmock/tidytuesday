@@ -1,0 +1,5 @@
+- path: tidytuesday_tweets
+  name: tidytuesday_tweets
+  rows: 32
+  cols: 11
+  type: table
